@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyFramework", "Company
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyFramework.Test", "CompanyFramework.Test\CompanyFramework.Test.csproj", "{0DD234F8-CF0E-4645-B37B-D4EA14202363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.BDDTests", "EmployeeManagement.BDDTests\EmployeeManagement.BDDTests.csproj", "{9C66A5B4-1048-441F-B223-1AE1C66082FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0DD234F8-CF0E-4645-B37B-D4EA14202363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DD234F8-CF0E-4645-B37B-D4EA14202363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DD234F8-CF0E-4645-B37B-D4EA14202363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C66A5B4-1048-441F-B223-1AE1C66082FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C66A5B4-1048-441F-B223-1AE1C66082FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C66A5B4-1048-441F-B223-1AE1C66082FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C66A5B4-1048-441F-B223-1AE1C66082FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
