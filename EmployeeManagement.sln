@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyFramework", "Company
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyFramework.Test", "CompanyFramework.Test\CompanyFramework.Test.csproj", "{0DD234F8-CF0E-4645-B37B-D4EA14202363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentBddTests", "ComponentBddTests\ComponentBddTests.csproj", "{657F3432-4A1B-47DE-9E84-EA7EC32486C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0DD234F8-CF0E-4645-B37B-D4EA14202363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DD234F8-CF0E-4645-B37B-D4EA14202363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DD234F8-CF0E-4645-B37B-D4EA14202363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657F3432-4A1B-47DE-9E84-EA7EC32486C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657F3432-4A1B-47DE-9E84-EA7EC32486C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657F3432-4A1B-47DE-9E84-EA7EC32486C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657F3432-4A1B-47DE-9E84-EA7EC32486C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
